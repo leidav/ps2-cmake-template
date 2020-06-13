@@ -1,3 +1,3 @@
-PS2 CMake Sample Project
-========================
+Playstation 2 CMake Sample Project
+==================================
 
